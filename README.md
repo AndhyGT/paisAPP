@@ -1,6 +1,6 @@
 # PaisApp
 Aplicacion de busqueda por nombre del País, Por Capital y Por Región
-utilizando la API **https://restcountries.com/v2**
+utilizando la API **https://restcountries.com**
 
 # Tecnolgia Utilizadas
 ```
